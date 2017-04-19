@@ -1,19 +1,19 @@
 <svg height="254" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="254" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 05:40:44 +0000    96984 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 05:40:44 +0000     7815 byte  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 05:40:44 +0000     9237 byte  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 05:40:44 +0000     4000 byte  TODO</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 05:40:44 +0000     5011 byte  bin/cli.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 05:40:44 +0000     3097 byte  lib/api.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 05:40:44 +0000     1435 byte  lib/cyclic.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 05:40:44 +0000     3644 byte  lib/graph.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 05:40:44 +0000       59 byte  lib/log.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 05:40:44 +0000     3299 byte  lib/output.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 05:40:44 +0000     5917 byte  lib/tree.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 05:40:44 +0000       73 byte  madge.sublime-project</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 05:40:44 +0000    50176 byte  madge.sublime-workspace</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 05:40:44 +0000     3221 byte  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 04:34:10 +0000    96984 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 04:34:10 +0000     7815 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 04:34:10 +0000     9237 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 04:34:10 +0000     4000 bytes  TODO</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 04:34:10 +0000     5011 bytes  bin/cli.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 04:34:10 +0000     3097 bytes  lib/api.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 04:34:10 +0000     1435 bytes  lib/cyclic.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 04:34:10 +0000     3644 bytes  lib/graph.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 04:34:10 +0000       59 bytes  lib/log.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 04:34:10 +0000     3299 bytes  lib/output.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 04:34:10 +0000     5917 bytes  lib/tree.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 04:34:10 +0000       73 bytes  madge.sublime-project</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 04:34:10 +0000    50176 bytes  madge.sublime-workspace</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 04:34:10 +0000     3221 bytes  package.json</tspan>
 </text>
 </svg>
