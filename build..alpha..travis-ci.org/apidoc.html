@@ -390,7 +390,22 @@ madge(&#x27;path/to/app.js&#x27;).then((res) =&#x3e; {
 		warningCount ? &#x27;(&#x27; + chalk.yellow.bold(pluralize(&#x27;warning&#x27;, warningCount, true)) + &#x27;)&#x27; : &#x27;&#x27;
 	);
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+	}
+
+	return madge(src, config);
+})
+.then((res) =&#x3e; {
+	if (!program.json &#x26;&#x26; !program.dot) {
+		spinner.stop();
+		output.<span class="apidocCodeKeywordSpan">getResultSummary</span>(res, startTime);
+	}
+
+	if (program.summary) {
+		output.summary(res.obj(), {
+			json: program.json
+		});
+...</pre></li>
     </ul>
 
 
@@ -416,7 +431,23 @@ madge(&#x27;path/to/app.js&#x27;).then((res) =&#x3e; {
 		});
 	});
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+	if (program.dot) {
+		return res.dot().then((output) =&#x3e; {
+			process.stdout.write(output);
+			return res;
+		});
+	}
+
+	output.<span class="apidocCodeKeywordSpan">list</span>(res.obj(), {
+		json: program.json
+	});
+
+	return res;
+})
+.then((res) =&#x3e; {
+	if (program.warning &#x26;&#x26; !program.json) {
+...</pre></li>
     </ul>
 
 
@@ -447,7 +478,23 @@ madge(&#x27;path/to/app.js&#x27;).then((res) =&#x3e; {
 		return printJSON(o);
 	}
 }</pre></li>
-    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    <li>example usage<pre class="apidocCodePre">...
+.then((res) =&#x3e; {
+	if (!program.json &#x26;&#x26; !program.dot) {
+		spinner.stop();
+		output.getResultSummary(res, startTime);
+	}
+
+	if (program.summary) {
+		output.<span class="apidocCodeKeywordSpan">summary</span>(res.obj(), {
+			json: program.json
+		});
+
+		return res;
+	}
+
+	if (program.depends) {
+...</pre></li>
     </ul>
 
 

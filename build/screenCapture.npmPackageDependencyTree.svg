@@ -15,13 +15,13 @@
 <tspan x="10" y="202">  ├─┬ commander@2.9.0 </tspan>
 <tspan x="10" y="218">  │ └── graceful-readlink@1.0.1 </tspan>
 <tspan x="10" y="234">  ├── commondir@1.0.1 </tspan>
-<tspan x="10" y="250">  ├─┬ debug@2.6.3 </tspan>
-<tspan x="10" y="266">  │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="250">  ├─┬ debug@2.6.4 </tspan>
+<tspan x="10" y="266">  │ └── ms@0.7.3 </tspan>
 <tspan x="10" y="282">  ├─┬ dependency-tree@5.8.0 </tspan>
 <tspan x="10" y="298">  │ ├── commander@2.6.0 </tspan>
 <tspan x="10" y="314">  │ ├─┬ debug@2.2.0 </tspan>
 <tspan x="10" y="330">  │ │ └── ms@0.7.1 </tspan>
-<tspan x="10" y="346">  │ ├─┬ filing-cabinet@1.7.0 </tspan>
+<tspan x="10" y="346">  │ ├─┬ filing-cabinet@1.8.0 </tspan>
 <tspan x="10" y="362">  │ │ ├── app-module-path@1.1.0 </tspan>
 <tspan x="10" y="378">  │ │ ├── commander@2.8.1 </tspan>
 <tspan x="10" y="394">  │ │ ├─┬ debug@2.2.0 </tspan>
