@@ -1,6 +1,6 @@
 # npmdoc-madge
 
-#### api documentation for  [madge (v1.6.0)](https://github.com/pahen/madge)  [![npm package](https://img.shields.io/npm/v/npmdoc-madge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-madge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-madge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-madge)
+#### basic api documentation for  [madge (v1.6.0)](https://github.com/pahen/madge)  [![npm package](https://img.shields.io/npm/v/npmdoc-madge.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-madge) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-madge.svg)](https://travis-ci.org/npmdoc/node-npmdoc-madge)
 
 #### Create graphs from module dependencies.
 
